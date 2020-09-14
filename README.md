@@ -9,21 +9,17 @@ test_csv.csv:The next 40 observation along with observation id and timestamp are
 
 value to predict: The value of feature attribute has to be predicted.
 
-
-File Description:
-
+File Description:  
 train_csv.csv - the training set    
 test_csv.csv - the test set
 
-Data Fields:
-
+Data Fields:  
 id - observation ID   
 time - timestamp for the given observation   
 feature - target feature to be predicted
 
 
-Requirement:
-
+Requirement:  
 A solution.csv file will have to be submitted in order to enter the leaderboard. Solution.csv file will consist of two fields:
 
 id: observation ID   
