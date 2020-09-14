@@ -1,4 +1,4 @@
-# TERRABLUE_XT_PREDICT_EL_FUTURE
+# TerrablueXT_PREDICT_EL_FUTURE
 
 Forecast the values of feature one
 
