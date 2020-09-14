@@ -22,8 +22,11 @@ feature - target feature to be predicted
 
 
 
-Requirement
+Requirement:
+
+The value of feature attribute has to be predicted
 A solution.csv file will have to be submitted in order to enter the leaderboard. Solution.csv file will consist of two fields:
 
 id: observation ID
+
 feature: the predicted value of feature column
