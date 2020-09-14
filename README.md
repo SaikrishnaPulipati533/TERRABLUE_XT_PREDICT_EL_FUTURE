@@ -3,8 +3,8 @@ Forecast the values of feature one
 
 Data Description:
 
-Data consist of two files:
-train_csv.csv: The training dataset consists of 80 observation with observation id, timestamp and feature value.
+Data consist of two files:  
+train_csv.csv: The training dataset consists of 80 observation with observation id, timestamp and feature value.  
 test_csv.csv:The next 40 observation along with observation id and timestamp are present here. You'll have to predict the value of feature at these timestamps.
 
 value to predict: The value of feature attribute has to be predicted.
@@ -12,13 +12,13 @@ value to predict: The value of feature attribute has to be predicted.
 
 File Description:
 
-train_csv.csv - the training set,  
+train_csv.csv - the training set    
 test_csv.csv - the test set
 
 Data Fields:
 
-id - observation ID,  
-time - timestamp for the given observation,  
+id - observation ID   
+time - timestamp for the given observation   
 feature - target feature to be predicted
 
 
@@ -26,5 +26,5 @@ Requirement:
 
 A solution.csv file will have to be submitted in order to enter the leaderboard. Solution.csv file will consist of two fields:
 
-id: observation ID,  
+id: observation ID   
 feature: the predicted value of feature column
